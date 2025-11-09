@@ -70,8 +70,6 @@ src/
 You can visit the live version of this project here:  
 👉 **[https://fresh-card-store.vercel.app](https://fresh-card-store.vercel.app)**
 
-or any Node.js-compatible hosting provider.
-
 
 
 
